@@ -1,0 +1,109 @@
+string bname = text_Book_Name.Text;
+            string bauthor = text_Auther_name.Text;
+            string bpublication = tex_Publication.Text;
+            int price = Int32.Parse(text_Price.Text);
+            int quantity = Int32.Parse(text_Quantity.Text);
+            string pdate = dateTimePicker_PDate.Text;
+
+            string connectionString = "Data Source=DESKTOP-2K91IPS;Initial Catalog=LMS;Integrated Security=True";
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                con.Open();
+
+                // Use a parameterized query to prevent SQL injection
+                string query = "INSERT INTO Add_Books (bName, bAuthor, bPublic, bPrice, bQuantity, bDate) VALUES (@bname, @bauthor, @bpublication, @price, @quantity, @pdate)";
+                using (SqlCommand cmd = new SqlCommand(query, con))
+                {
+                    cmd.Parameters.AddWithValue("@bname", bname);
+                    cmd.Parameters.AddWithValue("@bauthor", bauthor);
+                    cmd.Parameters.AddWithValue("@bpublication", bpublication);
+                    cmd.Parameters.AddWithValue("@price", price);
+                    cmd.Parameters.AddWithValue("@quantity", quantity);
+                    cmd.Parameters.AddWithValue("@pdate", pdate);
+
+                    cmd.ExecuteNonQuery();
+                }
+
+                MessageBox.Show("Data Saved", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+
+            /* String bname = text_Book_Name.Text;
+             String bauthor = text_Auther_name.Text; 
+             String bpublication = tex_Publication.Text; 
+             Int64 price = Int64.Parse(text_Price.Text);
+             Int64 Quantity = Int64.Parse(text_Quantity.Text);
+             String pdate = dateTimePicker_PDate.Text;*/
+
+
+            /*SqlConnection con = new SqlConnection();
+            con.ConnectionString = "Data Source=DESKTOP-2K91IPS;Initial Catalog=Library_Add_Book;Integrated Security=True";
+
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = con;
+
+            con.Open();
+            cmd.CommandText = "insert into AddBook (bName,bAuthor,bPublic,bPrice,bQuantity,bDate) values ('" + bname + "','" + bauthor + "','" + bpublication + "'," + price + "," + Quantity + ",'" + pdate + "')";
+            cmd.ExecuteNonQuery();
+            con.Close();
+
+            MessageBox.Show("Data Saved","Success",MessageBoxButtons.OK,MessageBoxIcon.Information);*/
+
+            //String qry = "insert into AddBooks (bName,bAuthor,bPublic,bPrice,bQuantity,bDate) values ('"+bname+"','"+bauthor+"','"+bpublication+"',"+price+","+Quantity+",'"+pdate+"')";
+            //SqlDataAdapter sda = new SqlDataAdapter(qry, con);
+
+            // DataTable dataTable = new DataTable();
+            //sda.Fill(dataTable);
+
+
+        }
+
+        private void button_Cancel_Click(object sender, EventArgs e)
+        {
+
+            text_Book_Name.Clear();
+            text_Auther_name.Clear();
+            tex_Publication.Clear();
+            text_Price.Clear();
+            text_Quantity.Clear();
+            
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+create database Library_Managment_System;
+
+create table Add_Books(
+bId int not null identity(1,1) primary key,
+bName varchar(100) not null,
+bAuthor varchar(100) not null,
+bPublic varchar(100) not null,
+bPrice bigint not null,
+bQuantity bigint not null,
+bDate varchar(100) not null);
+
+select * from Add_Books;
+
+create table Add_Student(
+sId int not null identity(1,1) primary key,
+sName varchar(100) not null,
+sNIC varchar(20) not null,
+sAddress varchar(100) not null,
+sContact varchar(10),
+sGender varchar(20),
+sDate varchar(100),
+check(sGender in('Male','Female'))
+);
+
+drop table Add_Student;
+drop database LMS; 

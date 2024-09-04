@@ -1,0 +1,106 @@
+D:\C# Ex\GUI Project group Work\bin\Debug\GUI Project group Work.exe.config
+D:\C# Ex\GUI Project group Work\bin\Debug\GUI Project group Work.exe
+D:\C# Ex\GUI Project group Work\bin\Debug\GUI Project group Work.pdb
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.AssemblyReference.cache
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.SuggestedBindingRedirects.cache
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Form1.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Properties.Resources.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.GenerateResource.cache
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.CoreCompileInputs.cache
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.exe
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.pdb
+D:\C# Ex\GUI Project group Work\bin\Debug\BouncyCastle.Crypto.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\Google.Protobuf.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Hash.xxHash.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\MySql.Data.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Buffers.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.IO.Pipelines.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Memory.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Numerics.Vectors.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\ZstdSharp.dll
+D:\C# Ex\GUI Project group Work\bin\Debug\BouncyCastle.Crypto.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\Google.Protobuf.pdb
+D:\C# Ex\GUI Project group Work\bin\Debug\Google.Protobuf.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\K4os.Hash.xxHash.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\MySql.Data.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Buffers.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.IO.Pipelines.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Memory.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Numerics.Vectors.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# Ex\GUI Project group Work\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.CopyComplete
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.DashBoard.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Add_Student_Form.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Add_Book_Form.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.View_Book_Form.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.View_Student_Form.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Issue_Books.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Return_Books.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Complete_Book_Deatails.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Issue_Book_All_Details.resources
+D:\C# Ex\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Return_All_Book_Details.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\GUI Project group Work.exe.config
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\GUI Project group Work.exe
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\GUI Project group Work.pdb
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\Google.Protobuf.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\MySql.Data.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Buffers.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Memory.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\ZstdSharp.dll
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\Google.Protobuf.pdb
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\Google.Protobuf.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\MySql.Data.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Buffers.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Memory.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.AssemblyReference.cache
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Add_Book_Form.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Add_Student_Form.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Complete_Book_Deatails.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.DashBoard.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Form1.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Issue_Books.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Issue_Book_All_Details.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Properties.Resources.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Return_All_Book_Details.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.Return_Books.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.View_Book_Form.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI_Project_group_Work.View_Student_Form.resources
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.GenerateResource.cache
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.csproj.CopyComplete
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.exe
+C:\Users\Mohamed Mafas\Desktop\GUI Project\GUI Project group Work\obj\Debug\GUI Project group Work.pdb
